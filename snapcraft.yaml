@@ -14,19 +14,13 @@ confinement: devmode # use 'strict' once you have the right plugs and slots
 parts:
   myjsoncpp:
     # See 'snapcraft plugins'
-    plugin: nil
-    source: jsonprog
-    build-packages:
-     - cmake
-    override-build: |
-      mkdir build
-      cd build
-      cmake .. 
-
+    plugin: dump
+    source: ./jsonprog
+    organize:
+      build/main : bin/main
+  
 apps:
   myjsoncpp:
-    command: main.cpp
+    command: bin/main
     
-architectures:
-  - build-on: armhf
-    run-on: armhf
+
