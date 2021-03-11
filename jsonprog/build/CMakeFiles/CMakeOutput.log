@@ -1,0 +1,29 @@
+The system is: Linux - 5.8.0-44-generic - armv7l
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c984b/fast && /usr/bin/make -f CMakeFiles/cmTC_c984b.dir/build.make CMakeFiles/cmTC_c984b.dir/build
+make[1]: Entering directory '/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c984b.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_c984b.dir/testCXXCompiler.cxx.o -c /home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_c984b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c984b.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_c984b.dir/testCXXCompiler.cxx.o  -o cmTC_c984b 
+make[1]: Leaving directory '/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_88650/fast && /usr/bin/make -f CMakeFiles/cmTC_88650.dir/build.make CMakeFiles/cmTC_88650.dir/build
+make[1]: Entering directory '/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_88650.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_88650.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_88650
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_88650.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_88650.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_88650 
+make[1]: Leaving directory '/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/CMakeTmp'
+
+
+

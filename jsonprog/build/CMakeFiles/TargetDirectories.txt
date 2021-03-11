@@ -1,0 +1,7 @@
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/install/strip.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/list_install_components.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/install/local.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/rebuild_cache.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/edit_cache.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/install.dir
+/home/maksym/myjsoncpptest/jsonprog/build/CMakeFiles/main.dir
